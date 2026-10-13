@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)file:///H:/SNS/Matte/snyggt_arbetsblad_volymomvandling%20(6).html -->
+<html lang="sv"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volym</title>
+    <script src="./Arbetsblad_ Volymomvandling i vardagentill classroom_files/saved_resource"></script>
+    <link href="./Arbetsblad_ Volymomvandling i vardagentill classroom_files/css2" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        @media print {
+            .no-print { display: none !important; }
+            .page-break { page-break-before: always; }
+            body { background: white !important; color: black !important; }
+            .card { border: 1px solid #e2e8f0 !important; box-shadow: none !important; }
+            input { border-bottom: 1px solid #000 !important; background: transparent !important; }
+        }
+    </style>
+<style>*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }/* ! tailwindcss v3.4.17 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-feature-settings:normal;font-variation-settings:normal;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]:where(:not([hidden=until-found])){display:none}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.inset-0{inset:0px}.left-\[-9999px\]{left:-9999px}.right-4{right:1rem}.top-4{top:1rem}.z-50{z-index:50}.mx-auto{margin-left:auto;margin-right:auto}.mb-1{margin-bottom:0.25rem}.mb-12{margin-bottom:3rem}.mb-3{margin-bottom:0.75rem}.mb-4{margin-bottom:1rem}.mb-6{margin-bottom:1.5rem}.mb-8{margin-bottom:2rem}.mt-1{margin-top:0.25rem}.mt-12{margin-top:3rem}.mt-4{margin-top:1rem}.mr-2{margin-right:0.5rem}.mt-3{margin-top:0.75rem}.block{display:block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-12{height:3rem}.h-4{height:1rem}.h-5{height:1.25rem}.h-6{height:1.5rem}.min-h-screen{min-height:100vh}.w-12{width:3rem}.w-4{width:1rem}.w-5{width:1.25rem}.w-6{width:1.5rem}.w-full{width:100%}.w-36{width:9rem}.max-w-4xl{max-width:56rem}.max-w-lg{max-width:32rem}.flex-1{flex:1 1 0%}.grid-cols-1{grid-template-columns:repeat(1, minmax(0, 1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-2{gap:0.5rem}.gap-3{gap:0.75rem}.gap-4{gap:1rem}.space-y-2 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(0.5rem * var(--tw-space-y-reverse))}.space-y-4 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}.space-y-6 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1.5rem * var(--tw-space-y-reverse))}.rounded-2xl{border-radius:1rem}.rounded-full{border-radius:9999px}.rounded-xl{border-radius:0.75rem}.rounded-r-xl{border-top-right-radius:0.75rem;border-bottom-right-radius:0.75rem}.border{border-width:1px}.border-b{border-bottom-width:1px}.border-l-4{border-left-width:4px}.border-t{border-top-width:1px}.border-b-2{border-bottom-width:2px}.border-amber-200{--tw-border-opacity:1;border-color:rgb(253 230 138 / var(--tw-border-opacity, 1))}.border-amber-600{--tw-border-opacity:1;border-color:rgb(217 119 6 / var(--tw-border-opacity, 1))}.border-emerald-300{--tw-border-opacity:1;border-color:rgb(110 231 183 / var(--tw-border-opacity, 1))}.border-emerald-600{--tw-border-opacity:1;border-color:rgb(5 150 105 / var(--tw-border-opacity, 1))}.border-indigo-600{--tw-border-opacity:1;border-color:rgb(79 70 229 / var(--tw-border-opacity, 1))}.border-purple-600{--tw-border-opacity:1;border-color:rgb(147 51 234 / var(--tw-border-opacity, 1))}.border-slate-100{--tw-border-opacity:1;border-color:rgb(241 245 249 / var(--tw-border-opacity, 1))}.border-slate-200{--tw-border-opacity:1;border-color:rgb(226 232 240 / var(--tw-border-opacity, 1))}.border-slate-300{--tw-border-opacity:1;border-color:rgb(203 213 225 / var(--tw-border-opacity, 1))}.bg-amber-50{--tw-bg-opacity:1;background-color:rgb(255 251 235 / var(--tw-bg-opacity, 1))}.bg-amber-50\/70{background-color:rgb(255 251 235 / 0.7)}.bg-emerald-50{--tw-bg-opacity:1;background-color:rgb(236 253 245 / var(--tw-bg-opacity, 1))}.bg-emerald-50\/70{background-color:rgb(236 253 245 / 0.7)}.bg-indigo-100{--tw-bg-opacity:1;background-color:rgb(224 231 255 / var(--tw-bg-opacity, 1))}.bg-indigo-50{--tw-bg-opacity:1;background-color:rgb(238 242 255 / var(--tw-bg-opacity, 1))}.bg-indigo-50\/70{background-color:rgb(238 242 255 / 0.7)}.bg-indigo-600{--tw-bg-opacity:1;background-color:rgb(79 70 229 / var(--tw-bg-opacity, 1))}.bg-purple-50\/70{background-color:rgb(250 245 255 / 0.7)}.bg-slate-100{--tw-bg-opacity:1;background-color:rgb(241 245 249 / var(--tw-bg-opacity, 1))}.bg-slate-50{--tw-bg-opacity:1;background-color:rgb(248 250 252 / var(--tw-bg-opacity, 1))}.bg-slate-800{--tw-bg-opacity:1;background-color:rgb(30 41 59 / var(--tw-bg-opacity, 1))}.bg-slate-900\/60{background-color:rgb(15 23 42 / 0.6)}.bg-transparent{background-color:transparent}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1))}.p-1{padding:0.25rem}.p-3{padding:0.75rem}.p-4{padding:1rem}.p-6{padding:1.5rem}.p-8{padding:2rem}.px-3{padding-left:0.75rem;padding-right:0.75rem}.px-4{padding-left:1rem;padding-right:1rem}.px-8{padding-left:2rem;padding-right:2rem}.py-1{padding-top:0.25rem;padding-bottom:0.25rem}.py-2{padding-top:0.5rem;padding-bottom:0.5rem}.py-2\.5{padding-top:0.625rem;padding-bottom:0.625rem}.py-3{padding-top:0.75rem;padding-bottom:0.75rem}.px-1{padding-left:0.25rem;padding-right:0.25rem}.py-0\.5{padding-top:0.125rem;padding-bottom:0.125rem}.pb-1{padding-bottom:0.25rem}.pb-6{padding-bottom:1.5rem}.pt-2{padding-top:0.5rem}.pt-8{padding-top:2rem}.text-center{text-align:center}.text-2xl{font-size:1.5rem;line-height:2rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-base{font-size:1rem;line-height:1.5rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:0.75rem;line-height:1rem}.font-bold{font-weight:700}.font-extrabold{font-weight:800}.font-medium{font-weight:500}.font-semibold{font-weight:600}.uppercase{text-transform:uppercase}.tracking-tight{letter-spacing:-0.025em}.tracking-wider{letter-spacing:0.05em}.text-amber-800{--tw-text-opacity:1;color:rgb(146 64 14 / var(--tw-text-opacity, 1))}.text-amber-950{--tw-text-opacity:1;color:rgb(69 26 3 / var(--tw-text-opacity, 1))}.text-emerald-800{--tw-text-opacity:1;color:rgb(6 95 70 / var(--tw-text-opacity, 1))}.text-emerald-900{--tw-text-opacity:1;color:rgb(6 78 59 / var(--tw-text-opacity, 1))}.text-emerald-950{--tw-text-opacity:1;color:rgb(2 44 34 / var(--tw-text-opacity, 1))}.text-indigo-600{--tw-text-opacity:1;color:rgb(79 70 229 / var(--tw-text-opacity, 1))}.text-indigo-700{--tw-text-opacity:1;color:rgb(67 56 202 / var(--tw-text-opacity, 1))}.text-indigo-800{--tw-text-opacity:1;color:rgb(55 48 163 / var(--tw-text-opacity, 1))}.text-indigo-950{--tw-text-opacity:1;color:rgb(30 27 75 / var(--tw-text-opacity, 1))}.text-purple-800{--tw-text-opacity:1;color:rgb(107 33 168 / var(--tw-text-opacity, 1))}.text-purple-950{--tw-text-opacity:1;color:rgb(59 7 100 / var(--tw-text-opacity, 1))}.text-slate-400{--tw-text-opacity:1;color:rgb(148 163 184 / var(--tw-text-opacity, 1))}.text-slate-500{--tw-text-opacity:1;color:rgb(100 116 139 / var(--tw-text-opacity, 1))}.text-slate-600{--tw-text-opacity:1;color:rgb(71 85 105 / var(--tw-text-opacity, 1))}.text-slate-700{--tw-text-opacity:1;color:rgb(51 65 85 / var(--tw-text-opacity, 1))}.text-slate-800{--tw-text-opacity:1;color:rgb(30 41 59 / var(--tw-text-opacity, 1))}.text-slate-900{--tw-text-opacity:1;color:rgb(15 23 42 / var(--tw-text-opacity, 1))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.shadow-md{--tw-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 rgb(0 0 0 / 0.05);--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.outline-none{outline:2px solid transparent;outline-offset:2px}.backdrop-blur-sm{--tw-backdrop-blur:blur(4px);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.transition{transition-property:color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.hover\:border-slate-300:hover{--tw-border-opacity:1;border-color:rgb(203 213 225 / var(--tw-border-opacity, 1))}.hover\:bg-indigo-700:hover{--tw-bg-opacity:1;background-color:rgb(67 56 202 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-200:hover{--tw-bg-opacity:1;background-color:rgb(226 232 240 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-900:hover{--tw-bg-opacity:1;background-color:rgb(15 23 42 / var(--tw-bg-opacity, 1))}.hover\:text-slate-600:hover{--tw-text-opacity:1;color:rgb(71 85 105 / var(--tw-text-opacity, 1))}.focus\:border-indigo-600:focus{--tw-border-opacity:1;border-color:rgb(79 70 229 / var(--tw-border-opacity, 1))}.focus\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.focus\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)}.focus\:ring-indigo-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(99 102 241 / var(--tw-ring-opacity, 1))}@media (min-width: 640px){.sm\:grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}}@media (min-width: 768px){.md\:grid-cols-3{grid-template-columns:repeat(3, minmax(0, 1fr))}.md\:flex-row{flex-direction:row}.md\:items-start{align-items:flex-start}.md\:p-12{padding:3rem}.md\:p-8{padding:2rem}}</style></head>
+<body class="bg-slate-50 text-slate-800 min-h-screen p-4 md:p-8">
+
+    <!-- Header / Kontroller (Döljs vid utskrift) -->
+    <header class="max-w-4xl mx-auto mb-8 no-print bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+            <div>
+                <h1 class="text-2xl font-bold text-slate-900">Volymomvandling i vardagen</h1>
+                <p class="text-slate-600 text-sm mt-1">Interaktivt och utskriftsvänligt matematiskt arbetsblad (110 uppgifter)</p>
+            </div>
+            <div class="flex flex-wrap gap-3">
+                <button onclick="window.print()" class="px-4 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-xl font-medium text-sm transition shadow-sm flex items-center gap-2">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"></path></svg>
+                    Skriv ut / Spara PDF
+                </button>
+                <button onclick="openSubmitModal()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-xl font-semibold text-sm transition shadow-sm flex items-center gap-2">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+                    Lämna in uppgift
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Arbetsblad Containern -->
+    <main class="max-w-4xl mx-auto bg-white p-8 md:p-12 rounded-2xl shadow-sm border border-slate-200">
+        
+        <!-- Elevinformation vid utskrift / i fyllnad -->
+        <div class="border-b border-slate-200 pb-6 mb-8">
+            <div class="flex justify-between items-center mb-4">
+                <h1 class="text-3xl font-extrabold text-slate-900 tracking-tight">Arbetsblad: Volymomvandling</h1>
+                <span class="text-xs font-semibold uppercase tracking-wider bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full">Matematik</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mt-4">
+                <div class="flex items-center gap-2 border-b border-slate-300 pb-1">
+                    <span class="font-medium text-slate-500">Namn:</span>
+                    <input type="text" id="student-name" class="w-full bg-transparent outline-none text-slate-900 font-semibold" placeholder="Skriv ditt namn...">
+                </div>
+                <div class="flex items-center gap-2 border-b border-slate-300 pb-1">
+                    <span class="font-medium text-slate-500">Klass:</span>
+                    <input type="text" id="student-class" class="w-full bg-transparent outline-none text-slate-900 font-semibold" placeholder="Skriv din klass...">
+                </div>
+                <div class="flex items-center gap-2 border-b border-slate-300 pb-1">
+                    <span class="font-medium text-slate-500">Datum:</span>
+                    <input type="text" id="student-date" class="w-full bg-transparent outline-none text-slate-900 font-semibold" placeholder="ÅÅÅÅ-MM-DD">
+                </div>
+            </div>
+            <!-- Inlämningsstämpel som syns vid inlämning/utskrift -->
+            <div id="submission-stamp" class="hidden mt-4 p-3 bg-emerald-50 border border-emerald-300 rounded-xl text-emerald-900 text-sm font-medium"></div>
+        </div>
+
+        <!-- DEL 1 -->
+        <section class="mb-12">
+            <div class="bg-indigo-50/70 border-l-4 border-indigo-600 p-4 rounded-r-xl mb-6">
+                <h2 class="text-xl font-bold text-indigo-950">Del 1: Liter (l) till deciliter (dl)</h2>
+                <p class="text-sm text-indigo-800 mt-1 font-medium">Minnesregel: 1 liter (l) = 10 deciliter (dl)</p>
+            </div>
+
+            <div class="space-y-6" id="del1-container"><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">1.</span>Anna har 1 liter mjölk i sitt kylskåp. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-1" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">2.</span>Oskar köper 2 liter saft till kalaset. Hur många deciliter saft köper han?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-2" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">3.</span>En vattenflaska rymmer 3 liter vatten. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-3" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 30 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">4.</span>Sara fyller en kanna med 5 liter juice. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-4" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 50 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">5.</span>I en hink finns det 8 liter vatten. Hur många deciliter vatten finns i hinken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-5" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 80 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">6.</span>En soppgryta rymmer 4 liter soppa. Hur många deciliter soppa får det plats?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-6" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 40 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">7.</span>Erik dricker 7 liter vatten under en vecka. Hur många deciliter motsvarar det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-7" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">8.</span>En dunk innehåller 10 liter spolarvätska. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-8" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">9.</span>En stor kastrull rymmer 6 liter vatten. Hur många deciliter rymmer den?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-9" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 60 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">10.</span>Maja fyller en skål med 9 liter vatten. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-10" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 90 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">11.</span>En soppkittel på restaurangen rymmer 12 liter. Hur många deciliter soppa rymmer den?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-11" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 120 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">12.</span>Bagaren använder 15 liter vatten för ett stort brödbak. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-12" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 150 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">13.</span>En flaskläsk innehåller 0,5 liter. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-13" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 5 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">14.</span>Maria dricker 1,5 liter vatten på en dag. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-14" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 15 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">15.</span>En tillbringare rymmer 2,5 liter saft. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-15" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 25 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">16.</span>Ett litet mått rymmer 0,2 liter juice. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-16" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 2 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">17.</span>Det finns 0,8 liter mjölk kvar i paketet. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-17" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 8 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">18.</span>En termostar rymmer 3,5 liter kaffe. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-18" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 35 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">19.</span>En regntunna innehåller 20 liter vatten. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-19" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 200 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">20.</span>Kocken använder 4,2 liter buljong. Hur många deciliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-20" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 42 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">21.</span>⭐ Lisa har 1,5 liter saft och tillverkar 0,5 liter till. Hur många deciliter saft har hon totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-21" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">22.</span>⭐ En tillbringare rymmer 2 liter vatten. Du häller i 8 deciliter. Hur många deciliter till får det plats?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-22" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 12 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">23.</span>⭐ Johan har 3 liter juice. Han dricker 15 deciliter på en fest. Hur många deciliter juice har han kvar?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-23" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 15 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">24.</span>⭐ En hink rymmer 5 liter. Du har 2 hinkar som är helt fulla med vatten. Hur många deciliter vatten är det sammanlagt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-24" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">25.</span>⭐ Maja häller 0,4 liter saft i ett glas och 0,6 liter saft i ett annat glas. Hur många deciliter saft hällde hon upp totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-25" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">26.</span>⭐ En kastrull innehåller 2,5 liter soppa. Tre personer äter 4 deciliter soppa var. Hur många deciliter soppa finns det kvar i kastrullen?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-26" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 13 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">27.</span>⭐ Erik köper 4 flaskor vatten som rymmer 0,5 liter vardera. Hur många deciliter vatten har han köpt totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-27" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">28.</span>⭐ En akvarietank rymmer 15 liter vatten. Den är fylld med 90 deciliter vatten. Hur många deciliter vatten saknas för att den ska bli helt full?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-28" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 60 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">29.</span>⭐ Kocken har 0,8 liter grädde och köper 1,2 liter till. Hur många deciliter grädde har kocken totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-29" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">30.</span>⭐ En regntunna rymmer 25 liter vatten. Efter ett regn är den halvfull. Hur många deciliter vatten finns det i tunnan?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-30" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 125 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+        </section>
+
+        <!-- DEL 2 -->
+        <section class="mb-12 page-break">
+            <div class="bg-emerald-50/70 border-l-4 border-emerald-600 p-4 rounded-r-xl mb-6">
+                <h2 class="text-xl font-bold text-emerald-950">Del 2: Deciliter (dl) till centiliter (cl)</h2>
+                <p class="text-sm text-emerald-800 mt-1 font-medium">Minnesregel: 1 deciliter (dl) = 10 centiliter (cl)</p>
+            </div>
+
+            <div class="space-y-6" id="del2-container"><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">31.</span>Ett litet glas rymmer 1 deciliter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-31" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">32.</span>En kaffekopp rymmer 2 deciliter kaffe. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-32" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">33.</span>Lisa mäter upp 5 deciliter mjölk till pannkakssmeten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-33" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 50 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">34.</span>En soppskål rymmer 4 deciliter soppa. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-34" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 40 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">35.</span>Ett stort glas rymmer 7 deciliter läsk. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-35" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">36.</span>Ett dricksglas rymmer 3 deciliter saft. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-36" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 30 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">37.</span>Ett litet mått innehåller 9 deciliter grädde. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-37" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 90 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">38.</span>En skål rymmer 6 deciliter sås. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-38" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 60 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">39.</span>En flaska innehåller 8 deciliter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-39" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 80 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">40.</span>En tillbringare innehåller 10 deciliter saft. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-40" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">41.</span>En kastrull rymmer 12 deciliter buljong. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-41" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 120 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">42.</span>En skål rymmer 15 deciliter soppa. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-42" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 150 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">43.</span>Kocken behöver 0,5 deciliter matolja. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-43" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 5 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">44.</span>Ett recept kräver 1,5 deciliter socker. Hur många centiliter socker är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-44" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 15 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">45.</span>En mugg rymmer 2,5 deciliter te. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-45" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 25 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">46.</span>En mät-sked rymmer 0,1 deciliter sirap. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-46" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 1 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">47.</span>Ett litet mått innehåller 0,8 deciliter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-47" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 8 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">48.</span>En flaska innehåller 3,5 deciliter saft. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-48" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 35 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">49.</span>En behållare har 20 deciliter vätska. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-49" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 200 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">50.</span>Bagaren mäter upp 4,5 deciliter mjölk. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-50" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 45 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">51.</span>⭐ Emma har 3 deciliter saft och häller i 4 deciliter till i kannan. Hur många centiliter saft har hon totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-51" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">52.</span>⭐ Ett glas rymmer 25 centiliter. Hur många centiliter finns kvar i en flaska saft som innehöll 8 deciliter från början om du dricker ett glas?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-52" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 55 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">53.</span>⭐ Bagaren använder 4 deciliter mjölk i en smet och 2,5 deciliter i en annan. Hur många centiliter mjölk går det åt totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-53" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 65 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">54.</span>⭐ Du har 10 deciliter saft. Du häller upp 30 centiliter i en mugg. Hur många centiliter saft finns det kvar?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-54" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">55.</span>⭐ En skål rymmer 15 deciliter soppa. Fyra kompisar äter 20 centiliter soppa var. Hur många centiliter soppa är kvar i skålen?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-55" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">56.</span>⭐ Oskar köper 5 små flaskor läsk som innehåller 2 deciliter var. Hur många centiliter läsk har han totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-56" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">57.</span>⭐ En termos rymmer 12 deciliter kaffe. Om tre personer dricker 25 centiliter kaffe var, hur många centiliter kaffe finns kvar?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-57" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 45 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">58.</span>⭐ Lisa har 1,5 deciliter grädde och häller i 0,5 deciliter till. Hur många centiliter grädde har hon nu?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-58" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">59.</span>⭐ En flaska rymmer 6 deciliter vatten. Du dricker hälften. Hur många centiliter vatten har du druckit?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-59" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 30 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">60.</span>⭐ Kocken behöver 8 deciliter buljong. Han har redan mätt upp 35 centiliter. Hur många centiliter buljong till behöver han mäta upp?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-60" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 45 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+        </section>
+
+        <!-- DEL 3 -->
+        <section class="mb-12 page-break">
+            <div class="bg-amber-50/70 border-l-4 border-amber-600 p-4 rounded-r-xl mb-6">
+                <h2 class="text-xl font-bold text-amber-950">Del 3: Liter (l) till centiliter (cl)</h2>
+                <p class="text-sm text-amber-800 mt-1 font-medium">Minnesregel: 1 liter (l) = 100 centiliter (cl)</p>
+            </div>
+
+            <div class="space-y-6" id="del3-container"><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">61.</span>En flaska rymmer 1 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-61" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">62.</span>En saftkanna rymmer 2 liter saft. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-62" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 200 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">63.</span>En hink rymmer 3 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-63" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 300 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">64.</span>En stor skål rymmer 5 liter soppa. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-64" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 500 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">65.</span>Bilen behöver 4 liter spolarvätska. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-65" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 400 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">66.</span>En kanna innehåller 6 liter te. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-66" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 600 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">67.</span>En kruka rymmer 8 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-67" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 800 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">68.</span>En tillbringare rymmer 7 liter lemonad. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-68" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 700 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">69.</span>En hink rymmer 9 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-69" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 900 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">70.</span>En dunk rymmer 10 liter bensin. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-70" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 1000 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">71.</span>En halvlitersflaska innehåller 0,5 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-71" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 50 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">72.</span>En läskflaska innehåller 1,5 liter läsk. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-72" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 150 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">73.</span>En dunk rymmer 2,5 liter olja. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-73" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 250 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">74.</span>Ett litet glas rymmer 0,1 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-74" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">75.</span>Ett juicepaket innehåller 0,2 liter juice. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-75" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">76.</span>En flaskhals rymmer 0,7 liter saft. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-76" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">77.</span>En termos rymmer 3,5 liter kaffe. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-77" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 350 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">78.</span>En liten flask rymmer 0,25 liter dricka. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-78" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 25 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">79.</span>En tillbringare rymmer 0,75 liter cider. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-79" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 75 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">80.</span>En hink rymmer 12 liter vatten. Hur många centiliter är det?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-80" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 1200 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">81.</span>⭐ Emma har 0,3 liter saft i en flaska. Hon häller i ytterligare 0,4 liter saft. Hur många centiliter saft har hon totalt i flaskan?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-81" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 70 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">82.</span>⭐ Anton har en kanna med 1,2 liter vatten. Han häller ut 40 centiliter. Hur många centiliter vatten finns det kvar i kannan?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-82" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 80 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">83.</span>⭐ En behållare rymmer 4,5 liter vatten. Om du fyller två sådana behållare, hur många centiliter vatten har du totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-83" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 900 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">84.</span>⭐ Stina köper 3 små juicepaket. Varje paket innehåller 0,25 liter. Hur många centiliter juice har Stina köpt totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-84" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 75 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">85.</span>⭐ En stor hink rymmer 15 liter vatten. Du öser ut vatten med en skopa som rymmer 50 centiliter åt gången. Hur många skopor behövs för att tömma hela hinken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-85" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 30 skopor">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">86.</span>⭐ David har 2,5 liter vatten i en tillbringare. Han häller upp 150 centiliter i en skål. Hur många centiliter vatten finns det kvar i tillbringaren?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-86" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 100 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">87.</span>⭐ Sara ska göra bål. Hon blandar 0,75 liter läsk, 0,25 liter juice och 50 centiliter mineralvatten. Hur många centiliter bål får hon totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-87" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 150 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">88.</span>⭐ Ett recept kräver 0,05 liter vaniljextrakt. Du ska göra 4 satser av receptet. Hur många centiliter vaniljextrakt behöver du totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-88" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 20 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">89.</span>⭐ En hink rymmer 10 liter. Den fylls till hälften med vatten. Sedan häller du i 250 centiliter till. Hur många centiliter vatten finns det i hinken nu?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-89" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 750 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">90.</span>⭐ En stor vattentank rymmer 20 liter. Du fyller den med flaskor som rymmer 50 centiliter vardera. Hur många fulla flaskor behövs för att fylla hela tanken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-90" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 40 flaskor">
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+        </section>
+
+        <!-- DEL 4 -->
+        <section class="mb-12 page-break">
+            <div class="bg-purple-50/70 border-l-4 border-purple-600 p-4 rounded-r-xl mb-6">
+                <h2 class="text-xl font-bold text-purple-950">Del 4: Avancerade flerstegsutmaningar (Uppgift 91–110)</h2>
+                <p class="text-sm text-purple-800 mt-1 font-medium">Krävande vardagsproblem som kräver omvandlingar och beräkningar i flera led!</p>
+            </div>
+
+            <div class="space-y-6" id="del4-container"><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">91.</span>⭐ En saftblandning består av 1,5 liter vatten, 3 deciliter koncentrerad saft och 20 centiliter bärsaft. Hur många centiliter färdig saft blir det totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-91" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 200 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">92.</span>⭐ En akvarietank rymmer 25 liter vatten. Den fylls med en hink som rymmer 2 liter och en kanna som rymmer 50 centiliter. Hur många gånger behöver man fylla både hinken och kannan tillsammans för att akvariet ska bli helt fullt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-92" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 gånger">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">93.</span>⭐ Maja har 6 flaskor läsk som var och en innehåller 33 centiliter. Hon häller all läsk i en skål som rymmer 3 liter. Hur många deciliter till får det plats i skålen?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-93" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10,2 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">94.</span>⭐ Till ett kalas förbereds 4 liter bål. Var och en av de 15 gästerna dricker 20 centiliter bål. Hur många deciliter bål finns det kvar efter kalaset?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-94" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 10 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">95.</span>⭐ En regnvattentunna innehåller 45 liter vatten. Under en varm dag avdunstar 5 liter. Därefter används 120 deciliter till att vattna blommor. Hur många liter vatten finns kvar i tunnan?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-95" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 28 l">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">96.</span>⭐ Ett recept för 4 personer kräver 6 deciliter mjölk. Du ska laga receptet till 10 personer. Hur många centiliter mjölk behövs totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-96" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 150 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">97.</span>⭐ En juicefabrik fyller 100 flaskor på 50 centiliter vardera och 50 flaskor på 1,5 liter vardera. Hur många liter juice har de tillverkat totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-97" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 125 l">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">98.</span>⭐ En kastrull innehåller 2,8 liter soppa. Du häller upp 4 skålar med 35 centiliter soppa i varje. Hur många deciliter soppa finns det kvar i kastrullen?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-98" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 14 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">99.</span>⭐ Kocken har 0,5 liter grädde. Han använder först 15 centiliter i en sås och sedan 2 deciliter i en efterrätt. Hur många centiliter grädde finns kvar?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-99" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 15 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">100.</span>⭐ En vattentank rymmer 120 liter. Den fylls med två slangar samtidigt: Slang A ger 5 liter per minut och Slang B ger 30 deciliter per minut. Hur många minuter tar det att fylla tanken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-100" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 15 minuter">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">101.</span>⭐ Viktor köper tre flaskor juice: en på 1 liter, en på 75 centiliter och en på 5 deciliter. Hur många centiliter juice har han sammanlagt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-101" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 225 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">102.</span>⭐ I ett kemiexperiment blandar Lisa 2,5 deciliter vatten, 15 centiliter saltlösning och 10 centiliter färgämne. Hur många deciliter vätska finns det i bägaren totalt?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-102" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 5 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">103.</span>⭐ En kaffebryggare brygger 1,2 liter kaffe. Kaffet hälls upp i muggar som rymmer 15 centiliter vardera. Hur många fulla muggar kaffe räcker det till?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-103" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 8 muggar">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">104.</span>⭐ Bensintanken i en gräsklippare rymmer 2 liter bensin. Gräsklipparen drar 4 deciliter bensin per timme. Hur många timmar kan man klippa innan tanken är helt tom?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-104" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 5 timmar">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">105.</span>⭐ En juicebar säljer 30 glas smoothie om dagen. Varje glas innehåller 25 centiliter. Hur många liter smoothie säljer de under 4 dagar?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-105" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 30 l">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">106.</span>⭐ En stor dunk innehåller 8 liter dricksvatten. Tre personer fyller sina flaskor: Flaska 1 rymmer 75 cl, Flaska 2 rymmer 50 cl och Flaska 3 rymmer 1,2 liter (120 cl). Hur många centiliter vatten finns kvar i dunken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-106" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 555 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">107.</span>⭐ En soppgryta innehåller 6 liter soppa. Kocken delar upp soppan i lika stora portioner i 15 skålar. Hur många centiliter soppa hamnar i varje skål?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-107" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 40 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">108.</span>⭐ En kolsyremaskin behöver 4 centiliter smaksättning per 1 liter vatten. Om du ska göra 3,5 liter dryck, hur många centiliter smaksättning behöver du?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-108" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 14 cl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">109.</span>⭐ En spolarvätskedunk på 5 liter är full. Du häller 1,5 liter i bil A och 80 centiliter i bil B. Hur många deciliter spolarvätska finns kvar i dunken?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-109" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 27 dl">
+                            </div>
+                        </div>
+                    </div>
+                </div><div class="card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white">
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">110.</span>⭐ Till ett stort kalas behövs 10 liter saft. Man har redan tillverkat 45 deciliter jordgubbssaft och 350 centiliter hallonsaft. Hur många liter saft saknas fortfarande?</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-110" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. 2 l">
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+        </section>
+
+        <!-- Inlämningsknapp längst ner på sidan -->
+        <div class="mt-12 pt-8 border-t border-slate-200 text-center no-print">
+            <button onclick="openSubmitModal()" class="px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-base rounded-xl transition shadow-md inline-flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+                Klar! Lämna in uppgiften till läraren
+            </button>
+        </div>
+    </main>
+
+    <!-- Modal för Inlämning -->
+    <div id="submit-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+        <div class="bg-white rounded-2xl shadow-xl max-w-lg w-full p-6 md:p-8 relative border border-slate-100">
+            <button onclick="closeSubmitModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 p-1">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+
+            <div class="text-center mb-6">
+                <div class="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center mx-auto mb-3">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                </div>
+                <h3 class="text-2xl font-bold text-slate-900">Lämna in uppgiften</h3>
+                <p class="text-sm text-slate-600 mt-1" id="modal-summary-text">Sammanfattning av din inlämning</p>
+            </div>
+
+            <div id="modal-alert" class="hidden mb-4 p-3 bg-amber-50 text-amber-800 border border-amber-200 rounded-xl text-xs font-semibold"></div>
+
+            <div class="space-y-4">
+                <div>
+                    <label class="block text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Lärarens e-postadress (Valfritt)</label>
+                    <input type="email" id="teacher-email" class="w-full px-3 py-2 border border-slate-300 rounded-xl text-sm focus:ring-2 focus:ring-indigo-500 focus:outline-none" placeholder="larare@skola.se">
+                </div>
+
+                <div class="p-4 bg-slate-50 rounded-xl border border-slate-200 space-y-2 text-sm">
+                    <div class="flex justify-between"><span class="text-slate-500">Elev:</span> <span id="modal-student-name" class="font-semibold text-slate-900">-</span></div>
+                    <div class="flex justify-between"><span class="text-slate-500">Klass:</span> <span id="modal-student-class" class="font-semibold text-slate-900">-</span></div>
+                    <div class="flex justify-between"><span class="text-slate-500">Besvarade frågor:</span> <span id="modal-answered-count" class="font-semibold text-slate-900">0 / 110</span></div>
+                </div>
+
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
+                    <button onclick="sendEmail()" class="w-full py-2.5 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-xl text-sm transition flex items-center justify-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                        Skicka e-post
+                    </button>
+                    <button onclick="copySubmissionText()" class="w-full py-2.5 px-4 bg-slate-800 hover:bg-slate-900 text-white font-medium rounded-xl text-sm transition flex items-center justify-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
+                        Kopiera inlämning
+                    </button>
+                </div>
+
+                <button onclick="printWithSubmissionStamp()" class="w-full py-2.5 px-4 bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium rounded-xl text-sm transition flex items-center justify-center gap-2 border border-slate-300">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"></path></svg>
+                    Spara PDF / Skriv ut med resultat
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Osynlig textarea för kopiering till urklipp -->
+    <textarea id="clipboard-textarea" class="sr-only absolute left-[-9999px]" aria-hidden="true"></textarea>
+
+    <script>
+        const questionsDel1 = [
+            { id: 1, text: "Anna har 1 liter mjölk i sitt kylskåp. Hur många deciliter är det?", ans: "10 dl", num: 10 },
+            { id: 2, text: "Oskar köper 2 liter saft till kalaset. Hur många deciliter saft köper han?", ans: "20 dl", num: 20 },
+            { id: 3, text: "En vattenflaska rymmer 3 liter vatten. Hur många deciliter är det?", ans: "30 dl", num: 30 },
+            { id: 4, text: "Sara fyller en kanna med 5 liter juice. Hur många deciliter är det?", ans: "50 dl", num: 50 },
+            { id: 5, text: "I en hink finns det 8 liter vatten. Hur många deciliter vatten finns i hinken?", ans: "80 dl", num: 80 },
+            { id: 6, text: "En soppgryta rymmer 4 liter soppa. Hur många deciliter soppa får det plats?", ans: "40 dl", num: 40 },
+            { id: 7, text: "Erik dricker 7 liter vatten under en vecka. Hur många deciliter motsvarar det?", ans: "70 dl", num: 70 },
+            { id: 8, text: "En dunk innehåller 10 liter spolarvätska. Hur många deciliter är det?", ans: "100 dl", num: 100 },
+            { id: 9, text: "En stor kastrull rymmer 6 liter vatten. Hur många deciliter rymmer den?", ans: "60 dl", num: 60 },
+            { id: 10, text: "Maja fyller en skål med 9 liter vatten. Hur många deciliter är det?", ans: "90 dl", num: 90 },
+            { id: 11, text: "En soppkittel på restaurangen rymmer 12 liter. Hur många deciliter soppa rymmer den?", ans: "120 dl", num: 120 },
+            { id: 12, text: "Bagaren använder 15 liter vatten för ett stort brödbak. Hur många deciliter är det?", ans: "150 dl", num: 150 },
+            { id: 13, text: "En flaskläsk innehåller 0,5 liter. Hur många deciliter är det?", ans: "5 dl", num: 5 },
+            { id: 14, text: "Maria dricker 1,5 liter vatten på en dag. Hur många deciliter är det?", ans: "15 dl", num: 15 },
+            { id: 15, text: "En tillbringare rymmer 2,5 liter saft. Hur många deciliter är det?", ans: "25 dl", num: 25 },
+            { id: 16, text: "Ett litet mått rymmer 0,2 liter juice. Hur många deciliter är det?", ans: "2 dl", num: 2 },
+            { id: 17, text: "Det finns 0,8 liter mjölk kvar i paketet. Hur många deciliter är det?", ans: "8 dl", num: 8 },
+            { id: 18, text: "En termostar rymmer 3,5 liter kaffe. Hur många deciliter är det?", ans: "35 dl", num: 35 },
+            { id: 19, text: "En regntunna innehåller 20 liter vatten. Hur många deciliter är det?", ans: "200 dl", num: 200 },
+            { id: 20, text: "Kocken använder 4,2 liter buljong. Hur många deciliter är det?", ans: "42 dl", num: 42 },
+            // Flerstegsuppgifter (Del 1)
+            { id: 21, text: "⭐ Lisa har 1,5 liter saft och tillverkar 0,5 liter till. Hur många deciliter saft har hon totalt?", ans: "20 dl", num: 20 },
+            { id: 22, text: "⭐ En tillbringare rymmer 2 liter vatten. Du häller i 8 deciliter. Hur många deciliter till får det plats?", ans: "12 dl", num: 12 },
+            { id: 23, text: "⭐ Johan har 3 liter juice. Han dricker 15 deciliter på en fest. Hur många deciliter juice har han kvar?", ans: "15 dl", num: 15 },
+            { id: 24, text: "⭐ En hink rymmer 5 liter. Du har 2 hinkar som är helt fulla med vatten. Hur många deciliter vatten är det sammanlagt?", ans: "100 dl", num: 100 },
+            { id: 25, text: "⭐ Maja häller 0,4 liter saft i ett glas och 0,6 liter saft i ett annat glas. Hur många deciliter saft hällde hon upp totalt?", ans: "10 dl", num: 10 },
+            { id: 26, text: "⭐ En kastrull innehåller 2,5 liter soppa. Tre personer äter 4 deciliter soppa var. Hur många deciliter soppa finns det kvar i kastrullen?", ans: "13 dl", num: 13 },
+            { id: 27, text: "⭐ Erik köper 4 flaskor vatten som rymmer 0,5 liter vardera. Hur många deciliter vatten har han köpt totalt?", ans: "20 dl", num: 20 },
+            { id: 28, text: "⭐ En akvarietank rymmer 15 liter vatten. Den är fylld med 90 deciliter vatten. Hur många deciliter vatten saknas för att den ska bli helt full?", ans: "60 dl", num: 60 },
+            { id: 29, text: "⭐ Kocken har 0,8 liter grädde och köper 1,2 liter till. Hur många deciliter grädde har kocken totalt?", ans: "20 dl", num: 20 },
+            { id: 30, text: "⭐ En regntunna rymmer 25 liter vatten. Efter ett regn är den halvfull. Hur många deciliter vatten finns det i tunnan?", ans: "125 dl", num: 125 }
+        ];
+
+        const questionsDel2 = [
+            { id: 31, text: "Ett litet glas rymmer 1 deciliter vatten. Hur många centiliter är det?", ans: "10 cl", num: 10 },
+            { id: 32, text: "En kaffekopp rymmer 2 deciliter kaffe. Hur många centiliter är det?", ans: "20 cl", num: 20 },
+            { id: 33, text: "Lisa mäter upp 5 deciliter mjölk till pannkakssmeten. Hur många centiliter är det?", ans: "50 cl", num: 50 },
+            { id: 34, text: "En soppskål rymmer 4 deciliter soppa. Hur många centiliter är det?", ans: "40 cl", num: 40 },
+            { id: 35, text: "Ett stort glas rymmer 7 deciliter läsk. Hur många centiliter är det?", ans: "70 cl", num: 70 },
+            { id: 36, text: "Ett dricksglas rymmer 3 deciliter saft. Hur många centiliter är det?", ans: "30 cl", num: 30 },
+            { id: 37, text: "Ett litet mått innehåller 9 deciliter grädde. Hur många centiliter är det?", ans: "90 cl", num: 90 },
+            { id: 38, text: "En skål rymmer 6 deciliter sås. Hur många centiliter är det?", ans: "60 cl", num: 60 },
+            { id: 39, text: "En flaska innehåller 8 deciliter vatten. Hur många centiliter är det?", ans: "80 cl", num: 80 },
+            { id: 40, text: "En tillbringare innehåller 10 deciliter saft. Hur många centiliter är det?", ans: "100 cl", num: 100 },
+            { id: 41, text: "En kastrull rymmer 12 deciliter buljong. Hur många centiliter är det?", ans: "120 cl", num: 120 },
+            { id: 42, text: "En skål rymmer 15 deciliter soppa. Hur många centiliter är det?", ans: "150 cl", num: 150 },
+            { id: 43, text: "Kocken behöver 0,5 deciliter matolja. Hur många centiliter är det?", ans: "5 cl", num: 5 },
+            { id: 44, text: "Ett recept kräver 1,5 deciliter socker. Hur många centiliter socker är det?", ans: "15 cl", num: 15 },
+            { id: 45, text: "En mugg rymmer 2,5 deciliter te. Hur många centiliter är det?", ans: "25 cl", num: 25 },
+            { id: 46, text: "En mät-sked rymmer 0,1 deciliter sirap. Hur många centiliter är det?", ans: "1 cl", num: 1 },
+            { id: 47, text: "Ett litet mått innehåller 0,8 deciliter vatten. Hur många centiliter är det?", ans: "8 cl", num: 8 },
+            { id: 48, text: "En flaska innehåller 3,5 deciliter saft. Hur många centiliter är det?", ans: "35 cl", num: 35 },
+            { id: 49, text: "En behållare har 20 deciliter vätska. Hur många centiliter är det?", ans: "200 cl", num: 200 },
+            { id: 50, text: "Bagaren mäter upp 4,5 deciliter mjölk. Hur många centiliter är det?", ans: "45 cl", num: 45 },
+            // Flerstegsuppgifter (Del 2)
+            { id: 51, text: "⭐ Emma har 3 deciliter saft och häller i 4 deciliter till i kannan. Hur många centiliter saft har hon totalt?", ans: "70 cl", num: 70 },
+            { id: 52, text: "⭐ Ett glas rymmer 25 centiliter. Hur många centiliter finns kvar i en flaska saft som innehöll 8 deciliter från början om du dricker ett glas?", ans: "55 cl", num: 55 },
+            { id: 53, text: "⭐ Bagaren använder 4 deciliter mjölk i en smet och 2,5 deciliter i en annan. Hur många centiliter mjölk går det åt totalt?", ans: "65 cl", num: 65 },
+            { id: 54, text: "⭐ Du har 10 deciliter saft. Du häller upp 30 centiliter i en mugg. Hur många centiliter saft finns det kvar?", ans: "70 cl", num: 70 },
+            { id: 55, text: "⭐ En skål rymmer 15 deciliter soppa. Fyra kompisar äter 20 centiliter soppa var. Hur många centiliter soppa är kvar i skålen?", ans: "70 cl", num: 70 },
+            { id: 56, text: "⭐ Oskar köper 5 små flaskor läsk som innehåller 2 deciliter var. Hur många centiliter läsk har han totalt?", ans: "100 cl", num: 100 },
+            { id: 57, text: "⭐ En termos rymmer 12 deciliter kaffe. Om tre personer dricker 25 centiliter kaffe var, hur många centiliter kaffe finns kvar?", ans: "45 cl", num: 45 },
+            { id: 58, text: "⭐ Lisa har 1,5 deciliter grädde och häller i 0,5 deciliter till. Hur många centiliter grädde har hon nu?", ans: "20 cl", num: 20 },
+            { id: 59, text: "⭐ En flaska rymmer 6 deciliter vatten. Du dricker hälften. Hur många centiliter vatten har du druckit?", ans: "30 cl", num: 30 },
+            { id: 60, text: "⭐ Kocken behöver 8 deciliter buljong. Han har redan mätt upp 35 centiliter. Hur många centiliter buljong till behöver han mäta upp?", ans: "45 cl", num: 45 }
+        ];
+
+        const questionsDel3 = [
+            { id: 61, text: "En flaska rymmer 1 liter vatten. Hur många centiliter är det?", ans: "100 cl", num: 100 },
+            { id: 62, text: "En saftkanna rymmer 2 liter saft. Hur många centiliter är det?", ans: "200 cl", num: 200 },
+            { id: 63, text: "En hink rymmer 3 liter vatten. Hur många centiliter är det?", ans: "300 cl", num: 300 },
+            { id: 64, text: "En stor skål rymmer 5 liter soppa. Hur många centiliter är det?", ans: "500 cl", num: 500 },
+            { id: 65, text: "Bilen behöver 4 liter spolarvätska. Hur många centiliter är det?", ans: "400 cl", num: 400 },
+            { id: 66, text: "En kanna innehåller 6 liter te. Hur många centiliter är det?", ans: "600 cl", num: 600 },
+            { id: 67, text: "En kruka rymmer 8 liter vatten. Hur många centiliter är det?", ans: "800 cl", num: 800 },
+            { id: 68, text: "En tillbringare rymmer 7 liter lemonad. Hur många centiliter är det?", ans: "700 cl", num: 700 },
+            { id: 69, text: "En hink rymmer 9 liter vatten. Hur många centiliter är det?", ans: "900 cl", num: 900 },
+            { id: 70, text: "En dunk rymmer 10 liter bensin. Hur många centiliter är det?", ans: "1000 cl", num: 1000 },
+            { id: 71, text: "En halvlitersflaska innehåller 0,5 liter vatten. Hur många centiliter är det?", ans: "50 cl", num: 50 },
+            { id: 72, text: "En läskflaska innehåller 1,5 liter läsk. Hur många centiliter är det?", ans: "150 cl", num: 150 },
+            { id: 73, text: "En dunk rymmer 2,5 liter olja. Hur många centiliter är det?", ans: "250 cl", num: 250 },
+            { id: 74, text: "Ett litet glas rymmer 0,1 liter vatten. Hur många centiliter är det?", ans: "10 cl", num: 10 },
+            { id: 75, text: "Ett juicepaket innehåller 0,2 liter juice. Hur många centiliter är det?", ans: "20 cl", num: 20 },
+            { id: 76, text: "En flaskhals rymmer 0,7 liter saft. Hur många centiliter är det?", ans: "70 cl", num: 70 },
+            { id: 77, text: "En termos rymmer 3,5 liter kaffe. Hur många centiliter är det?", ans: "350 cl", num: 350 },
+            { id: 78, text: "En liten flask rymmer 0,25 liter dricka. Hur många centiliter är det?", ans: "25 cl", num: 25 },
+            { id: 79, text: "En tillbringare rymmer 0,75 liter cider. Hur många centiliter är det?", ans: "75 cl", num: 75 },
+            { id: 80, text: "En hink rymmer 12 liter vatten. Hur många centiliter är det?", ans: "1200 cl", num: 1200 },
+            // Flerstegsuppgifter (Del 3)
+            { id: 81, text: "⭐ Emma har 0,3 liter saft i en flaska. Hon häller i ytterligare 0,4 liter saft. Hur många centiliter saft har hon totalt i flaskan?", ans: "70 cl", num: 70 },
+            { id: 82, text: "⭐ Anton har en kanna med 1,2 liter vatten. Han häller ut 40 centiliter. Hur många centiliter vatten finns det kvar i kannan?", ans: "80 cl", num: 80 },
+            { id: 83, text: "⭐ En behållare rymmer 4,5 liter vatten. Om du fyller två sådana behållare, hur många centiliter vatten har du totalt?", ans: "900 cl", num: 900 },
+            { id: 84, text: "⭐ Stina köper 3 små juicepaket. Varje paket innehåller 0,25 liter. Hur många centiliter juice har Stina köpt totalt?", ans: "75 cl", num: 75 },
+            { id: 85, text: "⭐ En stor hink rymmer 15 liter vatten. Du öser ut vatten med en skopa som rymmer 50 centiliter åt gången. Hur många skopor behövs för att tömma hela hinken?", ans: "30 skopor", num: 30 },
+            { id: 86, text: "⭐ David har 2,5 liter vatten i en tillbringare. Han häller upp 150 centiliter i en skål. Hur många centiliter vatten finns det kvar i tillbringaren?", ans: "100 cl", num: 100 },
+            { id: 87, text: "⭐ Sara ska göra bål. Hon blandar 0,75 liter läsk, 0,25 liter juice och 50 centiliter mineralvatten. Hur många centiliter bål får hon totalt?", ans: "150 cl", num: 150 },
+            { id: 88, text: "⭐ Ett recept kräver 0,05 liter vaniljextrakt. Du ska göra 4 satser av receptet. Hur många centiliter vaniljextrakt behöver du totalt?", ans: "20 cl", num: 20 },
+            { id: 89, text: "⭐ En hink rymmer 10 liter. Den fylls till hälften med vatten. Sedan häller du i 250 centiliter till. Hur många centiliter vatten finns det i hinken nu?", ans: "750 cl", num: 750 },
+            { id: 90, text: "⭐ En stor vattentank rymmer 20 liter. Du fyller den med flaskor som rymmer 50 centiliter vardera. Hur många fulla flaskor behövs för att fylla hela tanken?", ans: "40 flaskor", num: 40 }
+        ];
+
+        const questionsDel4 = [
+            { id: 91, text: "⭐ En saftblandning består av 1,5 liter vatten, 3 deciliter koncentrerad saft och 20 centiliter bärsaft. Hur många centiliter färdig saft blir det totalt?", ans: "200 cl", num: 200 },
+            { id: 92, text: "⭐ En akvarietank rymmer 25 liter vatten. Den fylls med en hink som rymmer 2 liter och en kanna som rymmer 50 centiliter. Hur många gånger behöver man fylla både hinken och kannan tillsammans för att akvariet ska bli helt fullt?", ans: "10 gånger", num: 10 },
+            { id: 93, text: "⭐ Maja har 6 flaskor läsk som var och en innehåller 33 centiliter. Hon häller all läsk i en skål som rymmer 3 liter. Hur många deciliter till får det plats i skålen?", ans: "10,2 dl", num: 10.2 },
+            { id: 94, text: "⭐ Till ett kalas förbereds 4 liter bål. Var och en av de 15 gästerna dricker 20 centiliter bål. Hur många deciliter bål finns det kvar efter kalaset?", ans: "10 dl", num: 10 },
+            { id: 95, text: "⭐ En regnvattentunna innehåller 45 liter vatten. Under en varm dag avdunstar 5 liter. Därefter används 120 deciliter till att vattna blommor. Hur många liter vatten finns kvar i tunnan?", ans: "28 l", num: 28 },
+            { id: 96, text: "⭐ Ett recept för 4 personer kräver 6 deciliter mjölk. Du ska laga receptet till 10 personer. Hur många centiliter mjölk behövs totalt?", ans: "150 cl", num: 150 },
+            { id: 97, text: "⭐ En juicefabrik fyller 100 flaskor på 50 centiliter vardera och 50 flaskor på 1,5 liter vardera. Hur många liter juice har de tillverkat totalt?", ans: "125 l", num: 125 },
+            { id: 98, text: "⭐ En kastrull innehåller 2,8 liter soppa. Du häller upp 4 skålar med 35 centiliter soppa i varje. Hur många deciliter soppa finns det kvar i kastrullen?", ans: "14 dl", num: 14 },
+            { id: 99, text: "⭐ Kocken har 0,5 liter grädde. Han använder först 15 centiliter i en sås och sedan 2 deciliter i en efterrätt. Hur många centiliter grädde finns kvar?", ans: "15 cl", num: 15 },
+            { id: 100, text: "⭐ En vattentank rymmer 120 liter. Den fylls med två slangar samtidigt: Slang A ger 5 liter per minut och Slang B ger 30 deciliter per minut. Hur många minuter tar det att fylla tanken?", ans: "15 minuter", num: 15 },
+            { id: 101, text: "⭐ Viktor köper tre flaskor juice: en på 1 liter, en på 75 centiliter och en på 5 deciliter. Hur många centiliter juice har han sammanlagt?", ans: "225 cl", num: 225 },
+            { id: 102, text: "⭐ I ett kemiexperiment blandar Lisa 2,5 deciliter vatten, 15 centiliter saltlösning och 10 centiliter färgämne. Hur många deciliter vätska finns det i bägaren totalt?", ans: "5 dl", num: 5 },
+            { id: 103, text: "⭐ En kaffebryggare brygger 1,2 liter kaffe. Kaffet hälls upp i muggar som rymmer 15 centiliter vardera. Hur många fulla muggar kaffe räcker det till?", ans: "8 muggar", num: 8 },
+            { id: 104, text: "⭐ Bensintanken i en gräsklippare rymmer 2 liter bensin. Gräsklipparen drar 4 deciliter bensin per timme. Hur många timmar kan man klippa innan tanken är helt tom?", ans: "5 timmar", num: 5 },
+            { id: 105, text: "⭐ En juicebar säljer 30 glas smoothie om dagen. Varje glas innehåller 25 centiliter. Hur många liter smoothie säljer de under 4 dagar?", ans: "30 l", num: 30 },
+            { id: 106, text: "⭐ En stor dunk innehåller 8 liter dricksvatten. Tre personer fyller sina flaskor: Flaska 1 rymmer 75 cl, Flaska 2 rymmer 50 cl och Flaska 3 rymmer 1,2 liter (120 cl). Hur många centiliter vatten finns kvar i dunken?", ans: "555 cl", num: 555 },
+            { id: 107, text: "⭐ En soppgryta innehåller 6 liter soppa. Kocken delar upp soppan i lika stora portioner i 15 skålar. Hur många centiliter soppa hamnar i varje skål?", ans: "40 cl", num: 40 },
+            { id: 108, text: "⭐ En kolsyremaskin behöver 4 centiliter smaksättning per 1 liter vatten. Om du ska göra 3,5 liter dryck, hur många centiliter smaksättning behöver du?", ans: "14 cl", num: 14 },
+            { id: 109, text: "⭐ En spolarvätskedunk på 5 liter är full. Du häller 1,5 liter i bil A och 80 centiliter i bil B. Hur många deciliter spolarvätska finns kvar i dunken?", ans: "27 dl", num: 27 },
+            { id: 110, text: "⭐ Till ett stort kalas behövs 10 liter saft. Man har redan tillverkat 45 deciliter jordgubbssaft och 350 centiliter hallonsaft. Hur många liter saft saknas fortfarande?", ans: "2 l", num: 2 }
+        ];
+
+        function renderQuestions(items, containerId) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+            items.forEach(q => {
+                const card = document.createElement('div');
+                card.className = "card p-4 rounded-xl border border-slate-200 hover:border-slate-300 transition bg-white";
+                card.innerHTML = `
+                    <div class="flex flex-col md:flex-row md:items-start justify-between gap-4">
+                        <div class="flex-1">
+                            <p class="font-semibold text-slate-900"><span class="text-indigo-600 font-bold mr-2">${q.id}.</span>${q.text}</p>
+                            <div class="mt-3 flex items-center gap-2 text-sm">
+                                <span class="text-xs font-semibold text-slate-400">Svar:</span>
+                                <input type="text" id="ans-${q.id}" class="w-36 border-b-2 border-slate-300 focus:border-indigo-600 outline-none font-bold text-slate-900 px-1 py-0.5 text-sm" placeholder="t.ex. ${q.ans}">
+                            </div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        renderQuestions(questionsDel1, 'del1-container');
+        renderQuestions(questionsDel2, 'del2-container');
+        renderQuestions(questionsDel3, 'del3-container');
+        renderQuestions(questionsDel4, 'del4-container');
+
+        // Sätt dagens datum automatiskt
+        document.addEventListener('DOMContentLoaded', () => {
+            const today = new Date().toISOString().split('T')[0];
+            const dateInput = document.getElementById('student-date');
+            if (dateInput) dateInput.value = today;
+        });
+
+        function getAnsweredCount() {
+            const allQuestions = [...questionsDel1, ...questionsDel2, ...questionsDel3, ...questionsDel4];
+            let answeredCount = 0;
+
+            allQuestions.forEach(q => {
+                const input = document.getElementById(`ans-${q.id}`);
+                if (input && input.value.trim() !== '') {
+                    answeredCount++;
+                }
+            });
+
+            return { total: allQuestions.length, answered: answeredCount };
+        }
+
+        function openSubmitModal() {
+            const name = document.getElementById('student-name').value.trim();
+            const klass = document.getElementById('student-class').value.trim();
+            const modalAlert = document.getElementById('modal-alert');
+
+            if (!name) {
+                modalAlert.textContent = "⚠️ Kom ihåg att fylla i ditt Namn högst upp på sidan innan du lämnar in!";
+                modalAlert.classList.remove('hidden');
+            } else {
+                modalAlert.classList.add('hidden');
+            }
+
+            const res = getAnsweredCount();
+
+            document.getElementById('modal-student-name').textContent = name || "(Inget namn angivet)";
+            document.getElementById('modal-student-class').textContent = klass || "(Ingen klass angiven)";
+            document.getElementById('modal-answered-count').textContent = `${res.answered} / ${res.total}`;
+
+            document.getElementById('submit-modal').classList.remove('hidden');
+        }
+
+        function closeSubmitModal() {
+            document.getElementById('submit-modal').classList.add('hidden');
+        }
+
+        function getSubmissionSummaryText() {
+            const name = document.getElementById('student-name').value.trim() || 'Okänd elev';
+            const klass = document.getElementById('student-class').value.trim() || 'Ej angiven';
+            const date = document.getElementById('student-date').value.trim() || new Date().toISOString().split('T')[0];
+            const res = getAnsweredCount();
+
+            let text = `INLÄMNING: Volymomvandling i vardagen\n` +
+                       `Elev: ${name}\n` +
+                       `Klass: ${klass}\n` +
+                       `Datum: ${date}\n` +
+                       `Besvarade uppgifter: ${res.answered} / ${res.total}\n` +
+                       `========================================\n\n`;
+
+            const allQuestions = [...questionsDel1, ...questionsDel2, ...questionsDel3, ...questionsDel4];
+            allQuestions.forEach(q => {
+                const input = document.getElementById(`ans-${q.id}`);
+                const val = input ? input.value.trim() : '';
+                text += `Uppgift ${q.id}: ${val || '(Ej besvarad)'}\n`;
+            });
+
+            return text;
+        }
+
+        function sendEmail() {
+            const teacherEmail = document.getElementById('teacher-email').value.trim();
+            const name = document.getElementById('student-name').value.trim() || 'Elev';
+            const body = encodeURIComponent(getSubmissionSummaryText());
+            const subject = encodeURIComponent(`Inlämning Volymomvandling - ${name}`);
+
+            window.location.href = `mailto:${teacherEmail}?subject=${subject}&body=${body}`;
+        }
+
+        function copySubmissionText() {
+            const summaryText = getSubmissionSummaryText();
+            const textArea = document.getElementById('clipboard-textarea');
+            textArea.value = summaryText;
+            textArea.select();
+            
+            try {
+                document.execCommand('copy');
+                showNotification("Inlämningssammanfattningen har kopierats! Du kan klistra in den i Teams, Google Classroom eller e-post.");
+            } catch (err) {
+                showNotification("Kunde inte kopiera automatiskt. Kopiera manuellt.");
+            }
+        }
+
+        function printWithSubmissionStamp() {
+            const name = document.getElementById('student-name').value.trim() || 'Elev';
+            const date = document.getElementById('student-date').value.trim();
+            const res = getAnsweredCount();
+            
+            const stamp = document.getElementById('submission-stamp');
+            stamp.innerHTML = `<strong>Inlämnat digitalt:</strong> Elev: ${name} | Datum: ${date} | Besvarade frågor: <strong>${res.answered}/${res.total}</strong>`;
+            stamp.classList.remove('hidden');
+
+            closeSubmitModal();
+            window.print();
+        }
+
+        function showNotification(msg) {
+            let toast = document.getElementById('toast-notification');
+            if (!toast) {
+                toast = document.createElement('div');
+                toast.id = 'toast-notification';
+                toast.className = 'fixed bottom-5 right-5 bg-slate-900 text-white px-5 py-3 rounded-xl shadow-2xl text-sm font-medium z-50 transition transform duration-300 translate-y-10 opacity-0 max-w-md';
+                document.body.appendChild(toast);
+            }
+            toast.textContent = msg;
+            toast.classList.remove('translate-y-10', 'opacity-0');
+            
+            setTimeout(() => {
+                toast.classList.add('translate-y-10', 'opacity-0');
+            }, 4000);
+        }
+    </script>
+
+</body></html>
